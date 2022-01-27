@@ -1,0 +1,13 @@
+Advanced KU Bookstore:
+
+- In-Text search for all the available books, like google scholar and similar. Would be a great benefit when you can borrow the book directly
+
+- Upload your own picture and with the support of AI you will get KU merchandise as a preview to see how it looks like
+
+- Technical advice that fits your major. So you get individual advice what laptop etc. you should buy after entering your major and other information (the system checks what your needs are and finds solutions that fits that requirements..) -> basically computer scientist need higher performance than e.g. history students
+
+- Offer ticket sales for various events and games
+
+- Student discount hub for retaurants and various partners
+
+- Virtual library where people just join working groups and have an exchange on many different topics 
