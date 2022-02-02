@@ -1,0 +1,22 @@
+<div class="app-container">
+  <div class="title-bar">
+    <a href="/">
+      <img src="../assets/Kansas_Jayhawks_logo.svg" class="logo" />
+    </a>
+
+    <p-menubar [model]="items">
+      <div>
+        <input type="text" pInputText placeholder="Search" />
+        <button
+          type="button"
+          pButton
+          label="Log In"
+          icon="pi pi-power-off"
+          style="margin-left: 0.25em"
+        ></button>
+      </div>
+    </p-menubar>
+
+    <router-outlet></router-outlet>
+  </div>
+</div>
