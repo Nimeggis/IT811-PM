@@ -1,0 +1,15 @@
+@use '_constants' as constants;
+
+.app-container {
+  .title-bar {
+      display: flex;
+      flex-direction: row;
+      background-color: constants.$title-bar-color;
+      width: 100%;
+      justify-content: space-between;
+
+    .logo {
+      width: 8rem;
+    }
+  }
+}
